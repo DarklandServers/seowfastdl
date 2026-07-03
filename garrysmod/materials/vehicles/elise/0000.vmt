@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/elise/0000"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+}

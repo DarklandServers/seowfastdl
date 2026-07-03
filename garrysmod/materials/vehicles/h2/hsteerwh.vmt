@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/h2/hsteerwh"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+}

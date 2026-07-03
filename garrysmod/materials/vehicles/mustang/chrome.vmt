@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/mustang/chrome"	
+	"$envmap" "env_cubemap"
+}

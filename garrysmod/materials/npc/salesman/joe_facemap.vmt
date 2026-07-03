@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "npc/salesman/joe_facemap"
+	"$bumpmap" "npc/salesman/normalmap_flat"
+	"$halflambert" 1
+}

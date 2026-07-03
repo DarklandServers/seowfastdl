@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "props/gaspump/gaspump"
+	"$bumpmap" "props/gaspump/gaspump_n"
+}

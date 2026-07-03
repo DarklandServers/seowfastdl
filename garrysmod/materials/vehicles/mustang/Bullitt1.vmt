@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/mustang/Bullitt1"
+	"$nocull" 1
+}

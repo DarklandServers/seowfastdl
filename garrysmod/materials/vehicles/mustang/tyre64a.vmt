@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/mustang/tyre64a"
+	"$bumpmap" "vehicles/mustang/tyre64a_n"
+	"$nocull" 1
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/h2/h9"
+	"$surfaceprop" "Metal"
+	"$nocull" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.2  .2  .2]"
+}

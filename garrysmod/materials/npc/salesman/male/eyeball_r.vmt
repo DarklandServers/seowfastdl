@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "npc/salesman/male/eyeball_r"
+	"$iris" "npc/salesman/male/pupil_r"
+	"$halflambert" 1
+}

@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+	"$basetexture" "vehicles/corvette/wraps/carbon_fiber"
+
+	// Automotive clear-coat: same spec + fresnel as the factory body paint.
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.18 0.18 0.18]"
+	"$envmapfresnel" "1"
+	"$envmapfresnelminmaxexp" "[1.0 1.0 5.0]"
+
+	"$phong" "1"
+	"$phongexponent" "80"
+	"$phongboost" "6"
+	"$phongfresnelranges" "[0.5 1.0 2.0]"
+	"$phongalbedo" "1"
+	"$phongdisablehalflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"
+	"$rimlightboost" "0.8"
+
+	"$model" "1"
+}

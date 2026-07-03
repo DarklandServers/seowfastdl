@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "npc/salesman/arms_black"
+	"$bumpmap" "npc/salesman/arms_normal"
+}

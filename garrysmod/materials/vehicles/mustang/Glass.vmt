@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "vehicles/mustang/Glass"
+	"$nocull" 1
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmapmask" "vehicles/mustang/liner_env"
+}

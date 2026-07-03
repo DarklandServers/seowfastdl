@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture" "vehicles/corvette/liveries/racing_stripes"
+
+	// White mask; runtime tint is applied via $detailtint on the body material.
+	"$color2" "[1 1 1]"
+	"$model" "1"
+}
