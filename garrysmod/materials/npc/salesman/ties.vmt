@@ -2,4 +2,6 @@
 {
 	"$basetexture" "npc/salesman/tiesandties"
 	"$bumpmap" "npc/salesman/normalmap_flat"
+	"$halflambert" 1
+	"$nocull" 1
 }
