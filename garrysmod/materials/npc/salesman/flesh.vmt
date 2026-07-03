@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "npc/salesman/erdim_cylmap"
+	"$bumpmap" "npc/salesman/normalmap_flat"
+	"$halflambert" 1
+}
