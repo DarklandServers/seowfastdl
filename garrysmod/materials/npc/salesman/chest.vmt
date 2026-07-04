@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "npc/salesman/suit_sheet"
-	"$halflambert" 1
-	"$nocull" 1
-}

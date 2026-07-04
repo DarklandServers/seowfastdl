@@ -1,6 +1,5 @@
 "VertexLitGeneric"
 {
-	"$basetexture" "npc/salesman/suit_sheet3"
-	"$halflambert" 1
-	"$nocull" 1
+	"$baseTexture" "npc/salesman/suit_sheet3"
+	"$bumpmap" "npc/salesman/suit_sheet_nml"
 }
