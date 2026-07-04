@@ -1,8 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/mustang/Glass"
-	"$nocull" 1
-	"$translucent" 1
-	"$envmap" "env_cubemap"
-	"$envmapmask" "vehicles/mustang/liner_env"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85db5e8f3fc2481505146365f53a880500482781e698fe1cc27ea1bcedd7ba49
+size 164

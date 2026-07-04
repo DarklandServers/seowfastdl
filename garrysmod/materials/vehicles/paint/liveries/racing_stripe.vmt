@@ -1,8 +1,3 @@
-VertexLitGeneric
-{
-	"$basetexture" "vehicles/corvette/liveries/racing_stripe"
-
-	// White mask; runtime tint is applied via $detailtint on the body material.
-	"$color2" "[1 1 1]"
-	"$model" "1"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8af7aa6ad392438666d9e8d4925a704ffa64ad47e8304c7fbd1444cf72034f93
+size 202

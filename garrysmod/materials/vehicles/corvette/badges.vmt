@@ -1,6 +1,3 @@
-"vertexLitGeneric"
-{
-	"$basetexture" "vehicles/corvette/badges"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .2 .2 .2 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:828c527363677e1f2102e919c237f795acff2437319c69c4a80b6eb51ea99e7e
+size 121

@@ -1,8 +1,3 @@
-"vertexLitGeneric"
-{
-	"$basetexture" "vehicles/corvette/wheel"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .3 .3 .3 ]"
-	"$normalmapalphaenvmapmask" 1
-	"$envmapmask" "vehicles/corvette/wheel_mask"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb2cd755510518f879bf60e999d2484a50c57545fedc52c432a7bcc044e62f1
+size 197

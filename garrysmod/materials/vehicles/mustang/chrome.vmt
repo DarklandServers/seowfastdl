@@ -1,5 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/mustang/chrome"	
-	"$envmap" "env_cubemap"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:270524f46d68578fe1338bc685f20a77195e4a9bf516f0e0dea55cd8e036b5ce
+size 91

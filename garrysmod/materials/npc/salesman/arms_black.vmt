@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "npc/salesman/arms_black"
-	"$bumpmap" "npc/salesman/arms_normal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be939ccdae80fd5bc868134606ab5ef72a6e1c5895aa47ea006b5dc398566476
+size 104

@@ -1,6 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/mustang/tyre64a"
-	"$bumpmap" "vehicles/mustang/tyre64a_n"
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fdd5aec04d5990ac565b341ef881c066e9feafacb967fc9f4c5df623aa14829
+size 120

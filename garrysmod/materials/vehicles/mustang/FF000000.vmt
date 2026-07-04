@@ -1,5 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/mustang/FF000000"
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c58c777dfcb4ce86f83ed7836ef5879034900e08e349007b16652d36b4a0ae
+size 80

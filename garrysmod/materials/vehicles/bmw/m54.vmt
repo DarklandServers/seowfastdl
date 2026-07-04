@@ -1,9 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/bmw/m54"
-	"$surfaceprop" "Metal"
-	"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmapmask" "vehicles/bmw/m5n"
-	"$envmaptint" "[.6  .6  .6]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:07c60212a89076d0e6a53b72118fc364005617bd9a1c02cfa3b951fbee6d8669
+size 193

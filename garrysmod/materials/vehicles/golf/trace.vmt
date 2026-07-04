@@ -1,5 +1,3 @@
-"vertexLitGeneric"
-{
-	"$basetexture" "vehicles/golf/trace"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3bdf4e8424587c7cbc672d8b20def1636281211dd9190368a7ff612cd983fbf
+size 84

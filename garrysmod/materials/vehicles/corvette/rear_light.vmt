@@ -1,6 +1,3 @@
-"vertexLitGeneric"
-{
-	"$basetexture" "vehicles/corvette/rear_light"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .3 .3 .3 ]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90d98a38813c7868c6e800da6113bb233c87351080d0dd59fea81169951fead
+size 125

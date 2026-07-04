@@ -1,8 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/elise/00008"
-	"$surfaceprop" "Metal"
-	"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[.2  .2  .2]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e946438352be2452faca167a9c843bb35ea4b9ceca282f6756cb35a66aef2a27
+size 162

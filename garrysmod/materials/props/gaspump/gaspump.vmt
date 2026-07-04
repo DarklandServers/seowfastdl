@@ -1,5 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "props/gaspump/gaspump"
-	"$bumpmap" "props/gaspump/gaspump_n"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3b97eb95bc133361e4c1eb23d34de09e9c9e5333996731138d3af82b68773b
+size 106

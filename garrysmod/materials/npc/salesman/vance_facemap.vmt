@@ -1,7 +1,3 @@
-"VertexLitGeneric"
-{
-	// Original shader: VertexLitTexture
-	"$basetexture" "npc/salesman/vance_facemap"
-	"$bumpmap" "npc/salesman/normalmap_flat"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:86b3cc6725d04f547c4254527c36d427eca3098af776045fe09415a267d4c1ff
+size 166

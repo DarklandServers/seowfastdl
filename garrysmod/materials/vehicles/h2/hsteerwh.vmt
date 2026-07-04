@@ -1,6 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/h2/hsteerwh"
-	"$surfaceprop" "Metal"
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3828eda2ae359700b9321b06211921e0e3279508e6bdd98b2cbe5132d744a14
+size 99

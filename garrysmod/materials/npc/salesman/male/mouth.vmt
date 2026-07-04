@@ -1,7 +1,3 @@
-"Teeth"
-{
-	"$basetexture" "npc/salesman/male/mouth"
-	"$model" 1
-	"$clientshader" "MouthShader"
-	"$halflambert" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a4f66b653441903c985a40ff8ce75b3fe0c65ffe4eb7787063ac464d6a006aa
+size 122

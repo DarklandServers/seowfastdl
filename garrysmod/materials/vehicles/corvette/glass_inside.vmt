@@ -1,5 +1,3 @@
-"vertexLitGeneric"
-{
-	"$basetexture" "vehicles/corvette/glass_inside"
-	"$translucent" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:700cf68dce3612a060131fb5f99210439fc45d386db43f00f2fd8a322adb369d
+size 90

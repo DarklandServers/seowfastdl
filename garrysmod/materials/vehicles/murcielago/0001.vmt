@@ -1,5 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/murcielago/0001"
-	"$surfaceprop" "Metal"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:82c8f8b56ebf0479305b94f6745e28e4bcd8534f682448553b4805d402426eaf
+size 95

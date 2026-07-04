@@ -1,5 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/mustang/Carpet2"
-	"$nocull" 1
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5368a156cc886150f3712f8adbb4e066c40aefba9308069245d4a0717264a39c
+size 79

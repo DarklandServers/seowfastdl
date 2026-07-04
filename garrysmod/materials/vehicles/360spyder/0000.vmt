@@ -1,9 +1,3 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "vehicles/360spyder/0000"
-	"$surfaceprop" "Metal"
-	"$nocull" 1
-	"$envmap" "env_cubemap"
-	"$envmapmask" "vehicles/360spyder/modenaspec"
-	"$envmaptint" "[.7  .7  .7]"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a7dac8d07356b5634e2ea8eb0101c9c16c994660a1f519240020ef0ccb868f3
+size 213

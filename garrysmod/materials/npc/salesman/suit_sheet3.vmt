@@ -1,5 +1,3 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "npc/salesman/suit_sheet3"
-	"$bumpmap" "npc/salesman/suit_sheet_nml"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e0d0c3839c745831c797a69fef248585b4a3c66d9f06a6cc9f8cef8f201902
+size 97
