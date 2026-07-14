@@ -155,18 +155,18 @@
 	"state"
 	{
 		"name"		"SS_START_WATER"
-		"sound"		"vehicles/med/start.wav"
+		"sound"		"vehicles/med/start.mp3"
 	}
 
 	"state"
 	{
 		"name"		"SS_START_IDLE"
-		"sound"		"vehicles/med/start.wav"
+		"sound"		"vehicles/med/start.mp3"
 	}
 	"state"
 	{
 		"name"		"SS_SHUTDOWN_WATER"
-		"sound"		"vehicles/med/stop.wav"
+		"sound"		"vehicles/med/stop.mp3"
 	}
 	"state"
 	{
@@ -258,7 +258,7 @@
 	"state"
 	{
 		"name"		"SS_SHUTDOWN"
-		"sound"		"vehicles/med/stop.wav"
+		"sound"		"vehicles/med/stop.mp3"
 	}
 	"crashsound"
 	{
