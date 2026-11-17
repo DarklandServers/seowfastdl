@@ -39,13 +39,13 @@
 	"steering"
 	{
 		"degreesSlow"		"40"	// steering cone at zero to slow speed
-		"degreesFast"		"20"	// steering cone at fast speed to max speed
+		"degreesFast"		"12"	// steering cone at fast speed to max speed (was 20: too twitchy at speed)
 		"degreesBoost"		"7"	// steering cone at max boost speed (blend toward this after max speed)
 		"steeringExponent"	"1.4"	// steering function is linear, then raised to this power to be slower at the beginning of the curve, faster at the end
 		"slowcarspeed"		"15"
-		"fastcarspeed"		"30"
-		"slowSteeringRate"	"4.0"		
-		"fastSteeringRate"	"2.0"
+		"fastcarspeed"		"55"	// mph where steering reaches degreesFast (was 30)
+		"slowSteeringRate"	"4.0"
+		"fastSteeringRate"	"1.5"	// smoother wheel movement at speed (was 2.0)
 		"steeringRestRateSlow"	"4.0"
 		"steeringRestRateFast"	"2.0"
 		"turnThrottleReduceSlow" "0.5"
@@ -79,14 +79,14 @@
 		"suspension"
 		{
 			"springConstant"		"150"
-			"springDamping"			"2.5"
-			"stabilizerConstant"		"200"
+			"springDamping"			"3.0"	// less bounce (was 2.5)
+			"stabilizerConstant"		"350"	// less body roll in corners (was 200)
 			"springDampingCompression"	"1"
-			"maxBodyForce"			"550"
+			"maxBodyForce"			"1500"	// was 550, a quarter of the rear: the nose dived and ploughed wide
 		}
 
 		"torquefactor"	"0.5"
-		"brakefactor"	"0.5"
+		"brakefactor"	"0.6"	// more front brake so the rear doesn't step out braking into corners (was 0.5)
 	}
 
 	// rear axle
@@ -106,13 +106,13 @@
 		"suspension"
 		{
 			"springConstant"		"150"
-			"springDamping"			"2.5"
-			"stabilizerConstant"		"200"
+			"springDamping"			"3.0"	// less bounce (was 2.5)
+			"stabilizerConstant"		"350"	// less body roll in corners (was 200)
 			"springDampingCompression"	"1"
-			"maxBodyForce"			"1950"
+			"maxBodyForce"			"1500"	// matched to the front (was 1950)
 		}
 		"torquefactor"	"0.5"
-		"brakefactor"	"0.5"
+		"brakefactor"	"0.4"	// front/rear brake split 60/40 (was 0.5)
 	}
 }
 
